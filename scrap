@@ -158,7 +158,7 @@
 
   <main class="bg-light">
 
-    <section class="py-3 text-center container container-image-top">
+    <section class="py-3 text-center container">
       <img class="card-img" src="assets/img/background.png" alt="Image of houses and trees in Pawtucket">
     </section>
 
@@ -233,10 +233,8 @@
                             <img class="card-img-top carousel-image" src="assets/img/pawtucket.jpg"> </img>
 
                             <div class="card-body">
-                              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                                eiusmod tempor incididunt ut labore et dolore magna
-                                aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                                aliquip ex ea commodo consequat.</p>
+                              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
+                              aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                               <div class="d-flex justify-content-between align-items-center">
                                 <small class="text-muted">21 Sep, 2022</small>
                                 <small class="read-more">Read more <i class="fa-solid fa-arrow-right-long"></i></small>
@@ -255,10 +253,8 @@
                             <img class="card-img-top carousel-image" src="assets/img/pawtucket.jpg"> </img>
 
                             <div class="card-body">
-                              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                                eiusmod tempor incididunt ut labore et dolore magna
-                                aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                                aliquip ex ea commodo consequat.</p>
+                              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
+                              aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                               <div class="d-flex justify-content-between align-items-center">
                                 <small class="text-muted">21 Sep, 2022</small>
                                 <small class="read-more">Read more <i class="fa-solid fa-arrow-right-long"></i></small>
@@ -275,10 +271,8 @@
                             <img class="card-img-top carousel-image" src="assets/img/pawtucket.jpg"> </img>
 
                             <div class="card-body">
-                              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                                eiusmod tempor incididunt ut labore et dolore magna
-                                aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                                aliquip ex ea commodo consequat.</p>
+                              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
+                              aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                               <div class="d-flex justify-content-between align-items-center">
                                 <small class="text-muted">21 Sep, 2022</small>
                                 <small class="read-more">Read more <i class="fa-solid fa-arrow-right-long"></i></small>
@@ -330,8 +324,8 @@
 
                   <div class="card-body">
                     <strong class="card-title">Headline headline</strong>
-                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                      incididunt ut labore et dolore magna</p>
+                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
+                    aliqua.</p>
                     <div class="d-flex justify-content-between align-items-center">
                       <small class="text-muted">21 Sep, 2022</small>
                       <small class="read-more">Read more <i class="fa-solid fa-arrow-right-long"></i></small>
@@ -345,8 +339,8 @@
 
                   <div class="card-body">
                     <strong class="card-title">Headline headline</strong>
-                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                      incididunt ut labore et dolore magna</p>
+                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
+                    aliqua.</p>
                     <div class="d-flex justify-content-between align-items-center">
                       <small class="text-muted">21 Sep, 2022</small>
                       <small class="read-more">Read more <i class="fa-solid fa-arrow-right-long"></i></small>
@@ -360,8 +354,8 @@
 
                   <div class="card-body">
                     <strong class="card-title">Headline headline</strong>
-                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                      incididunt ut labore et dolore magna</p>
+                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
+                    aliqua.</p>
                     <div class="d-flex justify-content-between align-items-center">
                       <small class="text-muted">21 Sep, 2022</small>
                       <small class="read-more">Read more <i class="fa-solid fa-arrow-right-long"></i></small>
@@ -375,8 +369,8 @@
 
                   <div class="card-body">
                     <strong class="card-title">Headline headline</strong>
-                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                      incididunt ut labore et dolore magna</p>
+                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
+                    aliqua.</p>
                     <div class="d-flex justify-content-between align-items-center">
                       <small class="text-muted">21 Sep, 2022</small>
                       <small class="read-more">Read more <i class="fa-solid fa-arrow-right-long"></i></small>
@@ -390,8 +384,8 @@
 
                   <div class="card-body">
                     <strong class="card-title">Headline headline</strong>
-                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                      incididunt ut labore et dolore magna</p>
+                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
+                    aliqua.</p>
                     <div class="d-flex justify-content-between align-items-center">
                       <small class="text-muted">21 Sep, 2022</small>
                       <small class="read-more">Read more <i class="fa-solid fa-arrow-right-long"></i></small>
@@ -405,8 +399,8 @@
 
                   <div class="card-body">
                     <strong class="card-title">Headline headline</strong>
-                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                      incididunt ut labore et dolore magna</p>
+                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
+                    aliqua.</p>
                     <div class="d-flex justify-content-between align-items-center">
                       <small class="text-muted">21 Sep, 2022</small>
                       <small class="read-more">Read more <i class="fa-solid fa-arrow-right-long"></i></small>
@@ -426,55 +420,54 @@
   <footer class="text-muted py-5">
     <div class="container container-footer">
 
-      <div>
-        <p class="mb-1">Pawtucket City Hall <br /> 137 Roosevelt Avenue <br /> Pawtucket, RI 02860 <br /> (401) 728-0500
-          <br /> © 2022 City of Pawtucket. <br /> All Rights Reserved.
-        </p>
+        <div>
+          <p class="mb-1">Pawtucket City Hall <br /> 137 Roosevelt Avenue <br /> Pawtucket, RI 02860 <br /> (401) 728-0500
+            <br /> © 2022 City of Pawtucket. <br /> All Rights Reserved.</p>
 
+        </div>
+          <div class="hours">
+            <strong>Hours</strong>
+            <table>
+
+              <tr>
+                <th>Monday</th>
+                <td>8:00am - 4:30pm</td>
+              </tr>
+              <tr>
+                <th>Tuesday</th>
+                <td>8:00am - 4:30pm</td>
+              </tr>
+            <tr>
+              <th>Wednesday</th>
+              <td>8:00am - 4:30pm</td>
+            </tr>
+            <tr>
+              <th>Thursday</th>
+              <td>8:00am - 6:00pm</td>
+            </tr>
+            <tr>
+              <th>Friday</th>
+              <td>8:00am - 12:30pm</td>
+            </tr>
+
+          </table>
       </div>
-      <div class="hours">
-        <strong>Hours</strong>
-        <table>
-
-          <tr>
-            <th>Monday</th>
-            <td>8:00am - 4:30pm</td>
-          </tr>
-          <tr>
-            <th>Tuesday</th>
-            <td>8:00am - 4:30pm</td>
-          </tr>
-          <tr>
-            <th>Wednesday</th>
-            <td>8:00am - 4:30pm</td>
-          </tr>
-          <tr>
-            <th>Thursday</th>
-            <td>8:00am - 6:00pm</td>
-          </tr>
-          <tr>
-            <th>Friday</th>
-            <td>8:00am - 12:30pm</td>
-          </tr>
-
-        </table>
-      </div>
 
       <div>
         <a href="#">
-          <p>Lorem ipsum dolor</p>
+          <p>Lorem ipsum dolor sit amet</p>
         </a>
         <a href="#">
-          <p>Lorem ipsum dolor</p>
+          <p>Lorem ipsum dolor sit amet</p>
         </a>
         <a href="#">
-          <p>Lorem ipsum dolor</p>
+          <p>Lorem ipsum dolor sit amet</p>
         </a>
         <a href="#">
-          <p>Lorem ipsum dolor</p>
+          <p>Lorem ipsum dolor sit amet</p>
         </a>
         <a href="#">
-          <p>Lorem ipsum dolor</p>
+          <p>Lorem ipsum dolor sit amet</p>
         </a>
       </div>
     </div>
